@@ -1,5 +1,13 @@
+import BodyComp from './layout/body/BodyComp';
+import HeaderComp from './layout/header/HeaderComp';
+
 function App() {
-  return <main>Initial setting</main>;
+  return (
+    <>
+      <HeaderComp />
+      <BodyComp />
+    </>
+  );
 }
 
 export default App;
