@@ -1,4 +1,11 @@
 ul {
-  margin:0;
-  padding:0;  
+    margin:0;
+    padding:0;  
+}
+
+.logo {
+    color:#2E6FF2;
+    font-weight: 700;
+    font-size:32px;
+    cursor:pointer;
 }
